@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Qingya Zhao",
+    "label": "",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "Qingyazhao1@gmail.com",
+    "phone": "(201) 234-2600",
+    "url": "https://QingyaZ.github.io/",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
+      "address": "310 10th Street",
       "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "city": "Jersey City",
       "countryCode": "US",
-      "region": "California"
+      "region": "New Jersey"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Linkedin",
+        "username": "QingyaZhao",
+        "url": "https://www.linkedin.com/in/qingya-zhao-21ab59243/"
       }
     ]
   },
