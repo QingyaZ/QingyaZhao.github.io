@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://qingyazhao.github.io/sitemap.xml
