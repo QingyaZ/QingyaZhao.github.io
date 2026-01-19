@@ -36,10 +36,10 @@ plugins:
 
 header_pages:
   - index.markdown
-  - research.md
-  - publications.md
-  - teaching.md
-  - news.md
+  - Research.md
+  # - publications.md
+  # - teaching.md
+  # - news.md
 
 
 
