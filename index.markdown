@@ -20,7 +20,7 @@ title: Qingya Zhao
     <h1 style="margin-top:0;">Qingya Zhao</h1>
     <p>
       PhD candidate at Stevens Institute of Technology working on wearable robotics,
-      AI-powered insoles, and Bluetooth wearable devices synchronization for real-world gait monitoring).
+      AI-powered insoles, and Bluetooth wearable devices synchronization for real-world gait monitoring.
     </p>
   </div>
 </div>
