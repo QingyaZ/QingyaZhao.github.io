@@ -36,11 +36,6 @@ plugins:
 
 header_pages:
   - index.markdown
-  - Home.md
-  - Research.md
-  - Publications.md
-  - Teaching.md
-  - News.md
   
   
 
