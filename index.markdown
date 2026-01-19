@@ -12,7 +12,7 @@ title:
     <div style="margin-top:10px;">
       <a href="https://scholar.google.com/citations?user=QzIfyPYAAAAJ&hl=en&oi=ao">Google Scholar</a> /
       <!-- <a href="YOUR_GITHUB_LINK">GitHub</a> /
-      <a href="YOUR_TWITTER_OR_LINKEDIN">LinkedIn</a> -->
+      <a href="https://www.linkedin.com/in/qingya-zhao-21ab59243/">LinkedIn</a> -->
     </div>
   </div>
 
