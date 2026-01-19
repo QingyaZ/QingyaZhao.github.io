@@ -11,8 +11,8 @@ title:
     <img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Qingya Zhao" style="width:260px; border-radius:14px; object-fit:cover;">
     <div style="margin-top:10px;">
       <a href="https://scholar.google.com/citations?user=QzIfyPYAAAAJ&hl=en&oi=ao">Google Scholar</a> /
-      <!-- <a href="YOUR_GITHUB_LINK">GitHub</a> /
-      <a href="https://www.linkedin.com/in/qingya-zhao-21ab59243/">LinkedIn</a> -->
+      <!-- <a href="YOUR_GITHUB_LINK">GitHub</a> /-->
+      <a href="https://www.linkedin.com/in/qingya-zhao-21ab59243/">LinkedIn</a> 
     </div>
   </div>
 
