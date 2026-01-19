@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: 
+title: Qingya Zhao
 ---
 
 <div style="display:flex; gap:32px; align-items:flex-start; margin-top:24px; flex-wrap:wrap;">
@@ -19,7 +19,7 @@ title:
   <div style="flex:1; min-width:280px;">
     <h1 style="margin-top:0;">Qingya Zhao</h1>
     <p>
-      Write your short bio here (e.g., PhD candidate at Stevens Institute of Technology working on wearable robotics,
+      PhD candidate at Stevens Institute of Technology working on wearable robotics,
       AI-powered insoles, and Bluetooth wearable devices synchronization for real-world gait monitoring).
     </p>
   </div>
