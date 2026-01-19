@@ -37,9 +37,11 @@ plugins:
 header_pages:
   - index.markdown
   - Research.md
+  - Publications.md
+  - Teaching.md
   - News.md
-  # - publications.md
-  # - teaching.md
+  
+  
 
 
 
