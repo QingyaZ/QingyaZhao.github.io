@@ -19,7 +19,7 @@ title:
   <div style="flex:1; min-width:280px;">
     <h1 style="margin-top:0;">Qingya Zhao</h1>
     <p>
-      I’m a PhD candidate at Stevens Institute of Technology and a member of the <a href="https://www.wrslab.com/" target="_blank" rel="noopener">Wearable Robotic Systems Lab (WRSL)</a>. Before this, I earned my master’s degree at Columbia University, where I worked in <a href="https://roar.me.columbia.edu/" target="_blank" rel="noopener">The Robotics and Rehabilitation (RoAR) Lab</a>. I received my bachelor’s degree from Hunan University. Outside of research, I enjoy cooking, hiking, and playing with my cat, XiXi.
+      I’m a PhD candidate at Stevens Institute of Technology and a member of the <a href="https://www.wrslab.com/" target="_blank" rel="noopener">Wearable Robotic Systems Lab (WRSL)</a>. Before this, I earned my master’s degree at Columbia University, where I worked in <a href="https://roar.me.columbia.edu/" target="_blank" rel="noopener">The Robotics and Rehabilitation (RoAR) Lab</a>. I received my bachelor’s degree from Hunan University. Outside of research, I enjoy cooking, hiking, and playing with my cat, [XiXi]({{ '/assets/img/XiXi.jpg' | relative_url }}).
       <!-- wearable robotics, AI-powered insoles, and Bluetooth wearable devices synchronization for real-world gait monitoring. -->
     </p>
   </div>
