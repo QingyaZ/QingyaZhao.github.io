@@ -20,8 +20,8 @@ title:
     <h1 style="margin-top:0;">Qingya Zhao</h1>
     <p>
       I’m a PhD candidate at Stevens Institute of Technology and a member of the <a href="https://www.wrslab.com/" target="_blank" rel="noopener">Wearable Robotic Systems Lab (WRSL)</a>. Before this, I earned my master’s degree at Columbia University, where I worked in <a href="https://roar.me.columbia.edu/" target="_blank" rel="noopener">The Robotics and Rehabilitation (RoAR) Lab</a>. I received my bachelor’s degree from Hunan University. Outside of research, I enjoy cooking, hiking, and playing with my cat, 
-     <a href="{{ '/assets/img/XiXi.jng' | relative_url }}" target="_blank" rel="noopener" aria-label="Open XiXi photo">
-  <img src="{{ '/assets/img/XiXi.jng' | relative_url }}"
+     <a href="{{ '/assets/img/XiXi.png' | relative_url }}" target="_blank" rel="noopener" aria-label="Open XiXi photo">
+  <img src="{{ '/assets/img/XiXi.png' | relative_url }}"
        alt="XiXi"
        style="height:28px; width:28px; object-fit:cover; border-radius:50%; vertical-align:middle; margin-left:6px;">
 </a>.
