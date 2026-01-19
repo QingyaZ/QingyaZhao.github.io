@@ -3,8 +3,28 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Home
+title: 
 ---
+
+<div style="display:flex; gap:32px; align-items:flex-start; margin-top:24px; flex-wrap:wrap;">
+  <div style="flex:0 0 260px;">
+    <img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Qingya Zhao" style="width:260px; border-radius:14px; object-fit:cover;">
+    <div style="margin-top:10px;">
+      <a href="YOUR_SCHOLAR_LINK">Google Scholar</a> /
+      <a href="YOUR_GITHUB_LINK">GitHub</a> /
+      <a href="YOUR_TWITTER_OR_LINKEDIN">LinkedIn</a>
+    </div>
+  </div>
+
+  <div style="flex:1; min-width:280px;">
+    <h1 style="margin-top:0;">Qingya Zhao</h1>
+    <p>
+      Write your short bio here (e.g., PhD candidate at Stevens Institute of Technology working on wearable robotics,
+      AI-powered insoles, and Bluetooth wearable devices synchronization for real-world gait monitoring).
+    </p>
+  </div>
+</div>
+<hr/>
 
 <div id="research"></div>
 ## Research {#research}
